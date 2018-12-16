@@ -1,0 +1,12 @@
+#comments
+file.txt
+*.zip 
+#ignore all files end up with zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
+#anything starts with tour_ and ends with .mp4
+#q:would log/archive/access.log be ignored? NO
