@@ -1,4 +1,5 @@
 #comments
+temp.txt
 file.txt
 *.zip 
 #ignore all files end up with zip
